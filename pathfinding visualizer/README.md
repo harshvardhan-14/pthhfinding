@@ -160,4 +160,4 @@ This repository contains the source code of a web page that can generate and sol
 
 # Credits
 
-* [**Dhirendra-kumar-gupta**](https://github.com/DK-Gupta/) : Creator of the project.
+* [**Harshavrdhan Singh**]
